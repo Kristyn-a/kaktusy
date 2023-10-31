@@ -12,3 +12,10 @@ body {
   margin: 0 auto;
   padding: 0 20px;
 }
+
+
+
+.banner {
+  max-width: 100%;
+  height: auto;
+}
